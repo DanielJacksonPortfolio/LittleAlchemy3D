@@ -1,0 +1,357 @@
+padding 8 8 8 8 spacing -2 -2 scaleW 512 scaleH 512 lineHeight 82 count 97
+charID 0       x 51   y 68   width 62   height 62   xoffset 0    yoffset 1    xadvance 74
+charID 10      x 0    y 0    width 0    height 0    xoffset -8   yoffset 0    xadvance 14
+charID 32      x 0    y 0    width 0    height 0    xoffset -8   yoffset 0    xadvance 29
+charID 33      x 475  y 306  width 30   height 57   xoffset -5   yoffset 6    xadvance 33
+charID 34      x 91   y 468  width 37   height 34   xoffset -6   yoffset 6    xadvance 39
+charID 35      x 84   y 363  width 50   height 57   xoffset -7   yoffset 6    xadvance 49
+charID 36      x 422  y 0    width 49   height 65   xoffset -7   yoffset 2    xadvance 49
+charID 37      x 28   y 363  width 56   height 57   xoffset -6   yoffset 6    xadvance 57
+charID 38      x 155  y 132  width 58   height 59   xoffset -6   yoffset 5    xadvance 58
+charID 39      x 486  y 249  width 25   height 34   xoffset -6   yoffset 6    xadvance 28
+charID 40      x 62   y 0    width 34   height 66   xoffset -8   yoffset 6    xadvance 32
+charID 41      x 96   y 0    width 35   height 66   xoffset -8   yoffset 6    xadvance 32
+charID 42      x 419  y 420  width 46   height 44   xoffset -5   yoffset 5    xadvance 49
+charID 43      x 373  y 420  width 46   height 46   xoffset -5   yoffset 11   xadvance 49
+charID 44      x 465  y 420  width 28   height 38   xoffset -5   yoffset 35   xadvance 31
+charID 45      x 233  y 468  width 32   height 26   xoffset -7   yoffset 26   xadvance 31
+charID 46      x 128  y 468  width 28   height 28   xoffset -5   yoffset 35   xadvance 31
+charID 47      x 263  y 0    width 53   height 66   xoffset -12  yoffset 6    xadvance 45
+charID 48      x 48   y 132  width 48   height 59   xoffset -6   yoffset 5    xadvance 49
+charID 49      x 425  y 132  width 48   height 58   xoffset -4   yoffset 5    xadvance 49
+charID 50      x 0    y 191  width 48   height 58   xoffset -6   yoffset 5    xadvance 49
+charID 51      x 324  y 68   width 49   height 59   xoffset -7   yoffset 5    xadvance 49
+charID 52      x 48   y 191  width 49   height 58   xoffset -6   yoffset 5    xadvance 49
+charID 53      x 97   y 191  width 50   height 58   xoffset -7   yoffset 6    xadvance 49
+charID 54      x 373  y 68   width 49   height 59   xoffset -6   yoffset 5    xadvance 49
+charID 55      x 429  y 306  width 46   height 57   xoffset -5   yoffset 6    xadvance 49
+charID 56      x 422  y 68   width 50   height 59   xoffset -7   yoffset 5    xadvance 49
+charID 57      x 0    y 132  width 48   height 59   xoffset -6   yoffset 5    xadvance 49
+charID 58      x 345  y 420  width 28   height 47   xoffset -5   yoffset 16   xadvance 31
+charID 59      x 0    y 363  width 28   height 57   xoffset -5   yoffset 16   xadvance 31
+charID 60      x 372  y 363  width 43   height 49   xoffset -4   yoffset 10   xadvance 49
+charID 61      x 45   y 468  width 46   height 35   xoffset -5   yoffset 17   xadvance 49
+charID 62      x 415  y 363  width 43   height 49   xoffset -3   yoffset 10   xadvance 49
+charID 63      x 147  y 191  width 48   height 58   xoffset -7   yoffset 5    xadvance 47
+charID 64      x 96   y 132  width 59   height 59   xoffset -6   yoffset 5    xadvance 60
+charID 65      x 195  y 191  width 56   height 57   xoffset -9   yoffset 6    xadvance 52
+charID 66      x 251  y 191  width 51   height 57   xoffset -5   yoffset 6    xadvance 53
+charID 67      x 113  y 68   width 51   height 59   xoffset -6   yoffset 5    xadvance 52
+charID 68      x 302  y 191  width 53   height 57   xoffset -5   yoffset 6    xadvance 55
+charID 69      x 355  y 191  width 48   height 57   xoffset -5   yoffset 6    xadvance 49
+charID 70      x 403  y 191  width 46   height 57   xoffset -5   yoffset 6    xadvance 47
+charID 71      x 164  y 68   width 53   height 59   xoffset -6   yoffset 5    xadvance 55
+charID 72      x 449  y 191  width 52   height 57   xoffset -5   yoffset 6    xadvance 55
+charID 73      x 473  y 132  width 29   height 57   xoffset -5   yoffset 6    xadvance 33
+charID 74      x 472  y 68   width 38   height 58   xoffset -8   yoffset 6    xadvance 39
+charID 75      x 0    y 249  width 52   height 57   xoffset -5   yoffset 6    xadvance 53
+charID 76      x 52   y 249  width 45   height 57   xoffset -5   yoffset 6    xadvance 46
+charID 77      x 97   y 249  width 61   height 57   xoffset -5   yoffset 6    xadvance 64
+charID 78      x 158  y 249  width 52   height 57   xoffset -5   yoffset 6    xadvance 55
+charID 79      x 217  y 68   width 54   height 59   xoffset -6   yoffset 5    xadvance 55
+charID 80      x 210  y 249  width 52   height 57   xoffset -5   yoffset 6    xadvance 53
+charID 81      x 368  y 0    width 54   height 65   xoffset -6   yoffset 5    xadvance 55
+charID 82      x 262  y 249  width 53   height 57   xoffset -5   yoffset 6    xadvance 55
+charID 83      x 271  y 68   width 53   height 59   xoffset -9   yoffset 5    xadvance 50
+charID 84      x 315  y 249  width 45   height 57   xoffset -8   yoffset 6    xadvance 42
+charID 85      x 213  y 132  width 50   height 58   xoffset -5   yoffset 6    xadvance 53
+charID 86      x 360  y 249  width 56   height 57   xoffset -9   yoffset 6    xadvance 52
+charID 87      x 416  y 249  width 70   height 57   xoffset -8   yoffset 6    xadvance 68
+charID 88      x 0    y 306  width 59   height 57   xoffset -10  yoffset 6    xadvance 53
+charID 89      x 59   y 306  width 57   height 57   xoffset -10  yoffset 6    xadvance 49
+charID 90      x 116  y 306  width 50   height 57   xoffset -7   yoffset 6    xadvance 49
+charID 91      x 131  y 0    width 31   height 66   xoffset -6   yoffset 6    xadvance 32
+charID 92      x 316  y 0    width 52   height 66   xoffset -7   yoffset 6    xadvance 45
+charID 93      x 162  y 0    width 31   height 66   xoffset -6   yoffset 6    xadvance 32
+charID 94      x 0    y 468  width 45   height 37   xoffset -7   yoffset 6    xadvance 44
+charID 95      x 265  y 468  width 47   height 24   xoffset -8   yoffset 49   xadvance 44
+charID 96      x 156  y 468  width 32   height 27   xoffset -2   yoffset 2    xadvance 44
+charID 97      x 134  y 363  width 48   height 49   xoffset -7   yoffset 15   xadvance 49
+charID 98      x 263  y 132  width 47   height 58   xoffset -5   yoffset 6    xadvance 49
+charID 99      x 182  y 363  width 44   height 49   xoffset -6   yoffset 15   xadvance 45
+charID 100     x 310  y 132  width 47   height 58   xoffset -6   yoffset 6    xadvance 49
+charID 101     x 226  y 363  width 48   height 49   xoffset -6   yoffset 15   xadvance 49
+charID 102     x 471  y 0    width 40   height 59   xoffset -7   yoffset 4    xadvance 38
+charID 103     x 0    y 68   width 51   height 64   xoffset -8   yoffset 9    xadvance 48
+charID 104     x 166  y 306  width 45   height 57   xoffset -5   yoffset 6    xadvance 49
+charID 105     x 357  y 132  width 29   height 58   xoffset -5   yoffset 5    xadvance 32
+charID 106     x 0    y 0    width 37   height 68   xoffset -11  yoffset 5    xadvance 32
+charID 107     x 211  y 306  width 48   height 57   xoffset -5   yoffset 6    xadvance 48
+charID 108     x 259  y 306  width 29   height 57   xoffset -5   yoffset 6    xadvance 32
+charID 109     x 0    y 420  width 62   height 48   xoffset -5   yoffset 15   xadvance 65
+charID 110     x 458  y 363  width 45   height 48   xoffset -5   yoffset 15   xadvance 49
+charID 111     x 274  y 363  width 50   height 49   xoffset -6   yoffset 15   xadvance 50
+charID 112     x 288  y 306  width 47   height 57   xoffset -5   yoffset 15   xadvance 49
+charID 113     x 335  y 306  width 47   height 57   xoffset -6   yoffset 15   xadvance 49
+charID 114     x 108  y 420  width 36   height 47   xoffset -5   yoffset 16   xadvance 37
+charID 115     x 324  y 363  width 48   height 49   xoffset -8   yoffset 15   xadvance 46
+charID 116     x 386  y 132  width 39   height 58   xoffset -8   yoffset 6    xadvance 36
+charID 117     x 62   y 420  width 46   height 48   xoffset -5   yoffset 16   xadvance 49
+charID 118     x 144  y 420  width 48   height 47   xoffset -9   yoffset 16   xadvance 44
+charID 119     x 192  y 420  width 61   height 47   xoffset -8   yoffset 16   xadvance 59
+charID 120     x 253  y 420  width 49   height 47   xoffset -8   yoffset 16   xadvance 47
+charID 121     x 382  y 306  width 47   height 57   xoffset -8   yoffset 16   xadvance 45
+charID 122     x 302  y 420  width 43   height 47   xoffset -7   yoffset 16   xadvance 42
+charID 123     x 193  y 0    width 35   height 66   xoffset -8   yoffset 6    xadvance 32
+charID 124     x 37   y 0    width 25   height 67   xoffset 3    yoffset 6    xadvance 44
+charID 125     x 228  y 0    width 35   height 66   xoffset -8   yoffset 6    xadvance 32
+charID 126     x 188  y 468  width 45   height 27   xoffset -5   yoffset 22   xadvance 49
+kernings count 258
+kerning first 121 second 46 amount -2
+kerning first 49 second 46 amount 2
+kerning first 101 second 121 amount -1
+kerning first 119 second 44 amount -1
+kerning first 121 second 45 amount 1
+kerning first 88 second 79 amount -1
+kerning first 49 second 51 amount 1
+kerning first 52 second 52 amount 1
+kerning first 48 second 55 amount -1
+kerning first 49 second 56 amount 1
+kerning first 116 second 58 amount 2
+kerning first 86 second 59 amount -1
+kerning first 80 second 65 amount -3
+kerning first 86 second 67 amount -1
+kerning first 65 second 71 amount -1
+kerning first 52 second 49 amount -1
+kerning first 76 second 79 amount -1
+kerning first 88 second 81 amount -1
+kerning first 84 second 83 amount 1
+kerning first 65 second 85 amount -1
+kerning first 84 second 86 amount 2
+kerning first 79 second 88 amount -1
+kerning first 65 second 89 amount -3
+kerning first 84 second 97 amount -2
+kerning first 120 second 99 amount -1
+kerning first 80 second 101 amount -1
+kerning first 102 second 102 amount 1
+kerning first 118 second 103 amount -1
+kerning first 99 second 104 amount 1
+kerning first 86 second 58 amount -1
+kerning first 99 second 107 amount 1
+kerning first 85 second 109 amount 1
+kerning first 85 second 110 amount 1
+kerning first 89 second 112 amount -2
+kerning first 120 second 113 amount -1
+kerning first 84 second 114 amount -2
+kerning first 121 second 115 amount -1
+kerning first 114 second 116 amount 1
+kerning first 89 second 117 amount -2
+kerning first 97 second 118 amount -1
+kerning first 101 second 119 amount -1
+kerning first 111 second 120 amount -1
+kerning first 114 second 121 amount 1
+kerning first 85 second 65 amount -1
+kerning first 65 second 87 amount -2
+kerning first 65 second 111 amount -1
+kerning first 75 second 121 amount -2
+kerning first 111 second 121 amount -1
+kerning first 65 second 119 amount -1
+kerning first 76 second 121 amount -2
+kerning first 107 second 46 amount 1
+kerning first 89 second 58 amount -2
+kerning first 74 second 65 amount -1
+kerning first 71 second 87 amount -1
+kerning first 87 second 67 amount -1
+kerning first 87 second 97 amount -2
+kerning first 65 second 81 amount -1
+kerning first 82 second 87 amount -1
+kerning first 118 second 46 amount -2
+kerning first 89 second 65 amount -3
+kerning first 55 second 55 amount -1
+kerning first 66 second 87 amount -1
+kerning first 76 second 86 amount -3
+kerning first 109 second 118 amount -1
+kerning first 119 second 99 amount -1
+kerning first 85 second 114 amount 1
+kerning first 119 second 101 amount -1
+kerning first 65 second 67 amount -1
+kerning first 107 second 103 amount 1
+kerning first 44 second 49 amount 1
+kerning first 65 second 86 amount -2
+kerning first 55 second 49 amount -2
+kerning first 80 second 44 amount -4
+kerning first 86 second 46 amount -2
+kerning first 89 second 45 amount -2
+kerning first 70 second 97 amount -2
+kerning first 121 second 111 amount -1
+kerning first 107 second 111 amount -1
+kerning first 120 second 97 amount -1
+kerning first 86 second 101 amount -2
+kerning first 98 second 121 amount -1
+kerning first 87 second 117 amount -1
+kerning first 75 second 71 amount -1
+kerning first 75 second 101 amount -1
+kerning first 89 second 103 amount -3
+kerning first 109 second 121 amount -1
+kerning first 89 second 97 amount -3
+kerning first 71 second 89 amount -2
+kerning first 56 second 55 amount -1
+kerning first 89 second 46 amount -3
+kerning first 84 second 121 amount -3
+kerning first 89 second 59 amount -2
+kerning first 110 second 119 amount -1
+kerning first 70 second 44 amount -3
+kerning first 49 second 52 amount 1
+kerning first 80 second 46 amount -4
+kerning first 112 second 121 amount -1
+kerning first 89 second 101 amount -3
+kerning first 84 second 115 amount -2
+kerning first 70 second 74 amount -2
+kerning first 53 second 55 amount -2
+kerning first 114 second 45 amount 1
+kerning first 89 second 71 amount -2
+kerning first 50 second 49 amount -1
+kerning first 55 second 46 amount -4
+kerning first 87 second 84 amount 1
+kerning first 68 second 89 amount -2
+kerning first 65 second 84 amount -2
+kerning first 84 second 59 amount -2
+kerning first 84 second 117 amount -2
+kerning first 114 second 118 amount 1
+kerning first 114 second 102 amount 1
+kerning first 119 second 45 amount 1
+kerning first 119 second 97 amount -1
+kerning first 84 second 74 amount -2
+kerning first 76 second 84 amount -3
+kerning first 86 second 44 amount -2
+kerning first 89 second 118 amount -1
+kerning first 86 second 65 amount -2
+kerning first 53 second 49 amount -1
+kerning first 84 second 111 amount -2
+kerning first 120 second 111 amount -1
+kerning first 65 second 121 amount -1
+kerning first 87 second 79 amount -1
+kerning first 79 second 89 amount -2
+kerning first 56 second 49 amount -1
+kerning first 82 second 89 amount -1
+kerning first 89 second 44 amount -3
+kerning first 50 second 55 amount -1
+kerning first 86 second 97 amount -2
+kerning first 70 second 101 amount -1
+kerning first 114 second 44 amount -2
+kerning first 104 second 121 amount -1
+kerning first 89 second 83 amount -1
+kerning first 84 second 58 amount -2
+kerning first 88 second 67 amount -1
+kerning first 65 second 79 amount -1
+kerning first 111 second 118 amount -1
+kerning first 83 second 87 amount -1
+kerning first 121 second 99 amount -1
+kerning first 87 second 111 amount -2
+kerning first 70 second 117 amount -1
+kerning first 66 second 86 amount -1
+kerning first 86 second 103 amount -2
+kerning first 75 second 84 amount 1
+kerning first 84 second 101 amount -2
+kerning first 120 second 101 amount -1
+kerning first 65 second 44 amount 1
+kerning first 80 second 97 amount -1
+kerning first 86 second 71 amount -1
+kerning first 86 second 114 amount -1
+kerning first 118 second 99 amount -1
+kerning first 78 second 46 amount 1
+kerning first 67 second 65 amount -1
+kerning first 84 second 89 amount 2
+kerning first 82 second 101 amount -1
+kerning first 119 second 111 amount -1
+kerning first 75 second 79 amount -1
+kerning first 101 second 118 amount -1
+kerning first 65 second 118 amount -1
+kerning first 86 second 111 amount -2
+kerning first 87 second 71 amount -1
+kerning first 118 second 111 amount -1
+kerning first 89 second 84 amount 2
+kerning first 88 second 45 amount -1
+kerning first 48 second 49 amount -1
+kerning first 98 second 118 amount -1
+kerning first 87 second 101 amount -2
+kerning first 102 second 116 amount 1
+kerning first 45 second 65 amount 1
+kerning first 83 second 89 amount -1
+kerning first 51 second 55 amount -1
+kerning first 97 second 119 amount -1
+kerning first 51 second 49 amount -1
+kerning first 78 second 44 amount 1
+kerning first 84 second 44 amount -2
+kerning first 76 second 89 amount -5
+kerning first 70 second 65 amount -2
+kerning first 84 second 87 amount 1
+kerning first 65 second 101 amount -1
+kerning first 89 second 79 amount -2
+kerning first 86 second 117 amount -1
+kerning first 75 second 117 amount -1
+kerning first 45 second 84 amount -1
+kerning first 75 second 111 amount -1
+kerning first 110 second 121 amount -1
+kerning first 83 second 86 amount -1
+kerning first 70 second 111 amount -1
+kerning first 111 second 119 amount -1
+kerning first 84 second 65 amount -2
+kerning first 101 second 120 amount -1
+kerning first 87 second 44 amount -2
+kerning first 89 second 111 amount -3
+kerning first 52 second 55 amount -2
+kerning first 66 second 89 amount -1
+kerning first 119 second 46 amount -1
+kerning first 114 second 46 amount -2
+kerning first 84 second 118 amount -3
+kerning first 76 second 87 amount -3
+kerning first 118 second 97 amount -1
+kerning first 114 second 119 amount 1
+kerning first 84 second 99 amount -2
+kerning first 87 second 65 amount -2
+kerning first 118 second 45 amount 1
+kerning first 86 second 79 amount -1
+kerning first 118 second 101 amount -1
+kerning first 87 second 58 amount -1
+kerning first 87 second 46 amount -2
+kerning first 82 second 86 amount -1
+kerning first 121 second 44 amount -2
+kerning first 49 second 44 amount 2
+kerning first 54 second 49 amount -1
+kerning first 75 second 67 amount -1
+kerning first 65 second 46 amount 2
+kerning first 84 second 45 amount -1
+kerning first 110 second 118 amount -1
+kerning first 107 second 101 amount -1
+kerning first 57 second 55 amount -1
+kerning first 45 second 89 amount -2
+kerning first 49 second 55 amount -3
+kerning first 57 second 49 amount -1
+kerning first 68 second 86 amount -1
+kerning first 71 second 86 amount -1
+kerning first 84 second 103 amount -2
+kerning first 88 second 121 amount -2
+kerning first 55 second 58 amount -2
+kerning first 88 second 111 amount -2
+kerning first 55 second 54 amount -2
+kerning first 121 second 97 amount -1
+kerning first 89 second 67 amount -2
+kerning first 121 second 101 amount -1
+kerning first 79 second 65 amount -1
+kerning first 87 second 103 amount -1
+kerning first 55 second 52 amount -4
+kerning first 114 second 120 amount 1
+kerning first 65 second 45 amount 1
+kerning first 84 second 46 amount -2
+kerning first 85 second 112 amount 1
+kerning first 87 second 114 amount -1
+kerning first 68 second 65 amount -1
+kerning first 65 second 103 amount 1
+kerning first 84 second 119 amount -3
+kerning first 79 second 87 amount -1
+kerning first 46 second 49 amount 1
+kerning first 116 second 59 amount 2
+kerning first 107 second 44 amount 1
+kerning first 80 second 74 amount -3
+kerning first 109 second 119 amount -1
+kerning first 88 second 101 amount -2
+kerning first 79 second 86 amount -1
+kerning first 121 second 103 amount -1
+kerning first 70 second 46 amount -3
+kerning first 80 second 111 amount -1
+kerning first 86 second 84 amount 2
+kerning first 118 second 44 amount -2
+kerning first 97 second 121 amount -1
+kerning first 76 second 45 amount 1
+kerning first 82 second 111 amount -1
